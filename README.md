@@ -18,6 +18,16 @@ Story Generation and Visualization from reviews
 Extracting Features from Cleaned reviews
 Model Building: Sentiment Analysis
 
+## How to Run the Project
+In order to run the project just download the data from above mentioned source then run any file.
+
+## Prerequisites
+You need to have installed following softwares and libraries in your machine before running this project.
+
+Python 3
+
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scikit-learn.
+
 # Insights:
 Considering the ROC curve for classes, class 2 and 0 have been classified pretty well a their area under the curve is high. We can chose any threshold between 0.6-0.8 to get the optimal number of TPR and FPR
 Coming to micro and macro average, micro average preforms really well and macro average shows a not very good score
